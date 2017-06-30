@@ -2,7 +2,7 @@
 By: Sparkle Russell-Puleri, Ph.D.
 
 # Background:
-According to the American Cancer Society.Breast cancer is caused by the uncontrolled growth of breast cells, which leads to the formation of a tumor. These tumors can start from different at different locations in the breast. However, the vast majority of breast cancers begin in the ducts that carry milk to the nipple (ductal cancers). While, others can start in the glands that make breast milk (lobular cancers). There are also other types of breast cancer that are much less common.
+According to the American Cancer Society, breast cancer is caused by the uncontrolled growth of breast cells, which leads to the formation of a tumor. These tumors can start from different at different locations in the breast. However, the vast majority of breast cancers begin in the ducts that carry milk to the nipple (ductal cancers). While, others can start in the glands that make breast milk (lobular cancers). There are also other types of breast cancer that are much less common.
 Tumors that can often be seen on an x-ray or felt as a lump. A tumor is considered malignant (cancer) if the cells grow into (invade) surrounding tissues or spread (metastasize) to other areas of the body. And benign breast tumors are abnormal growths, but they do not spread outside of the breast and they are not life threatening.
 
 # About this project:
